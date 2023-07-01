@@ -1,0 +1,12 @@
+{
+	"name": "com.redhurt.overengeneredgamemessage",
+	"displayName": "OverEngenered Game Messages",
+	"version": "0.0.1",
+	"unity": "2021.3.17",
+	"description": "Messages to Client-Server OverEngenered Game",
+	"category": "Messages",
+	"author": {
+		"name": "redHurt",
+		"url": "https://github.com/redHurt96/OverengeneredGame_Messages"
+	}
+}
